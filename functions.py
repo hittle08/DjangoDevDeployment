@@ -17,7 +17,7 @@ def getSum(num1, num2):
 numSum = getSum(2, 3)
 
 def addOnetoNum(num):
-    num = num + 1
+    num += + 1
     return num
 
 num = 5
